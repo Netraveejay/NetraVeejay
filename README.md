@@ -31,8 +31,8 @@ Aspiring Fullstack Developer | Machine Learning Enthusiast
 * **☁️ Weather App** — Real-time weather using OpenWeatherMap API
 * **📚 Book Rental System** — Fullstack app with MongoDB integration(ongoing)
 * **🌸 Diabetes Prediction** — ML model with 76% accuracy using Logistic Regression
-* **🪙 ERC-20 Token (CodeNexToken) — Custom Ethereum token built with Solidity & Remix
-* **📰 Fake News Detector — AI model with 99.46% accuracy, detects fake vs real news using NLP + Logistic Regression
+* 🪙 ERC-20 Token (CodeNexToken) — Custom Ethereum token built with Solidity & Remix
+* 📰 Fake News Detector — AI model with 99.46% accuracy, detects fake vs real news using NLP + Logistic Regression
  🏆 Achievements
 
 * 🏅 Web Development Intern at BCS
