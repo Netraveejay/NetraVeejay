@@ -1,113 +1,130 @@
 # Netra Vijayakumar
 
-
 ## About Me
 
-Fullstack developer and data science enthusiast with experience in React.js, Node.js, and financial data visualization.  
-Built interactive dashboards and real-time data systems using Protocol Buffers and structured JSON datasets.  
-Experienced in machine learning model development and data analysis, with a focus on scalable and data-driven systems.
+Fullstack developer and AI/ML enthusiast with experience in React.js, Node.js, TypeScript, and AWS.
+
+Built scalable software systems, interactive dashboards, and AI-powered applications with a focus on real-world problem solving.
+
+Experienced in agentic AI, machine learning, REST APIs, cloud-based systems, and data-driven application development.
 
 ---
 
 ## Technical Skills
 
-**Programming Languages:**
-C, Java, Python, JavaScript
+**Programming Languages:** C, Java, Python, JavaScript, TypeScript, SQL
 
-**Fullstack Development:**
-React.js, Node.js, Express.js, MongoDB, REST APIs
+**Fullstack Development:** React.js, Redux, Node.js, Express.js, HTML5, CSS3, REST APIs
 
-**Backend & Data Processing:**
-Node.js, JSON Data Handling, Protocol Buffers
+**Backend & Data Processing:** Microservices, Protocol Buffers, JSON Data Handling, Server-side Components
 
-**Machine Learning & Data Science:**
-scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow
+**Databases:** MySQL, MongoDB, DynamoDB, Database Design & Modelling
 
-**Tools & Systems:**
-Linux/Unix, Git, GitHub, VS Code
+**Cloud & Security:** AWS Lambda, API Gateway, S3, Bedrock, CloudWatch, JWT Authentication, IAM, CI/CD
 
-**Core CS Concepts:**
-Data Structures & Algorithms, Object-Oriented Programming
+**Machine Learning & AI:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, LLMs, Agentic AI
+
+**Tools & Systems:** Linux/Unix, Git, GitHub, VS Code, Playwright
+
+**Core CS Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Agile/Scrum, Unit Testing, Code Review, SDLC
 
 ---
 
 ## Projects
 
-* **Diabetes Prediction System**
+* **Insight — Guest Feedback Intelligence Platform**
 
-  * Built classification models using Logistic Regression and Decision Tree algorithms
-  * Performed data preprocessing, feature scaling, and handling of missing values
-  * Evaluated model performance using accuracy metrics and confusion matrices
-  * Visualized insights using Matplotlib and Seaborn
+  * Built an agentic 8-agent system that processes guest and staff feedback across 7 languages and 21 sites
+  * Designed a deterministic scoring pipeline with LLMs restricted to recommendation drafting
+  * Implemented automated investigation and self-critiquing agents
+  * Built using FastAPI, React, Python, and SQLite
+  * Jury Award Winner at the BCS Agentic AI Hackathon 2026
 
-* **CIFAR-10 Image Classification**
+* **Sahaayak AI — Government Scheme Eligibility Platform**
 
-  * Built and trained a CNN model using TensorFlow/Keras for image classification
-  * Applied image normalization and data augmentation techniques to improve generalization
-  * Evaluated model performance using accuracy and loss metrics
+  * Developed a platform that matches citizens with eligible government schemes using a hybrid rules and AI approach
+  * Implemented a deterministic eligibility engine with Amazon Bedrock for plain-language explanations
+  * Built using React, Node.js, AWS Lambda, API Gateway, DynamoDB, and S3
+  * Implemented JWT authentication and least-privilege IAM
+  * Added multilingual support, voice interface, and offline-first synchronization
+  * Selected for the prototype round of AWS Bharath Hackathon 2026
 
-* **Event Management Application**
+* **Event Management System**
 
-  * Developed a fullstack event platform using React.js, Node.js, and MongoDB
-  * Designed RESTful APIs and implemented CRUD functionality
-  * Integrated search and filtering features for better usability
-  * Built a responsive UI for cross-device compatibility
+  * Developed a fullstack event platform using React.js, Node.js, Express.js, and MySQL
+  * Designed a normalized MySQL database with M:N relationships and foreign-key constraints
+  * Implemented RESTful APIs with complete CRUD functionality
+  * Built an atomic ticket-booking flow with server-side price and seat validation
+  * Implemented measures to prevent double-booking
 
-* **Fullstack To-Do Application**
+* **Bug Replicator**
 
-  * Built a task management application with add, update, and delete functionality
-  * Integrated backend using Node.js and MongoDB
-  * Designed a clean and responsive user interface
-
+  * Developed a Chrome Manifest V3 extension for automated browser bug reproduction and reporting
+  * Built a 4-layer architecture for browser session recording and telemetry collection
+  * Captured console errors, network/HAR logs, screenshots, and recordings
+  * Detected failures across network, JavaScript, UI, performance, and accessibility categories
+  * Implemented session-fingerprint based duplicate detection
+  * Built an LLM pipeline using Claude/GPT-4o to generate reproducible Jira tickets
+  * Generated reproduction steps, root-cause hints, and Playwright replay scripts
 
 ---
 
 ## Experience
 
-* **AI/ML Intern – YHills (Feb 2025 – Apr 2025)**
+* **SDE Summer Intern – RingCentral (May 2026 – Jul 2026)**
 
-  * Built a Logistic Regression model achieving 95% accuracy using scikit-learn
-  * Performed data preprocessing and feature engineering to improve model performance
-  * Conducted exploratory data analysis and visualized insights using Matplotlib and Seaborn
-  * Delivered structured reports summarizing model evaluation and insights
-
-* **Web Development Intern – Basis Cloud Solutions (Jun 2025 – Jul 2025)**
-
-  * Completed structured training in React.js and Node.js fundamentals
-  * Built a login page using React.js based on provided UI templates
-  * Implemented basic backend functionality using Node.js
-  * Gained exposure to frontend–backend integration and REST API concepts
+  * Migrated a key dashboard page from legacy Ruby on Rails to React.js
+  * Executed a cross-repository dependency migration
+  * Integrated REST APIs and collaborated through Git/GitHub and code reviews
+  * Designed and developed Bug Replicator, a Chrome Manifest V3 extension
+  * Built automated browser telemetry collection and failure detection
+  * Developed an LLM pipeline for generating reproducible Jira tickets with Playwright replay scripts
 
 * **Data Visualization Intern – Zentropy Technology (Dec 2025)**
 
   * Processed structured financial datasets in JSON format
-  * Developed interactive dashboards using React.js (radar charts, timelines, calendar analytics, tree visualizations)
+  * Developed interactive dashboards using React.js including radar, timeline, calendar analytics, and tree visualizations
   * Implemented data segmentation logic for comparative financial analysis
   * Developed real-time visualization features using Node.js and Protocol Buffers
-  * Optimized backend–frontend data flow for low-latency rendering of live financial metrics
-
+  * Optimized backend-to-frontend data flow for low-latency rendering of financial metrics
 
 ---
 
 ## Publications
 
 * **Wildfire Risk Prediction Using Graph Convolutional Networks and Google Earth Engine**
-  Co-authored a published book chapter (IGI Global, 2026) focused on wildfire risk prediction using Graph Convolutional Networks and geospatial data.
-  Developed a spatio-temporal graph-based model integrating satellite data from Google Earth Engine for accurate and scalable risk forecasting.
+
+  * Co-authored a published book chapter by IGI Global in 2026
+  * Combined Graph Convolutional Networks with geospatial data to model spatial dependencies across fire-prone regions
+
+---
 
 ## Achievements & Activities
 
-* **AWS Barath Hackathon 2026** – Prototype submission ongoing
+* **Jury Award Winner — Agentic AI Hackathon (BCS)**
+* **AWS Bharath Hackathon 2026** – Prototype Round
 * **Smart India Hackathon (SIH) 2025** – Participant
 * **GirlScript Summer of Code (GSSoC) 2025** – Open Source Contributor
 * **IBM SkillBuild** – Certification in Large Language Models
-* **NPTEL** – Java Certification
-* Solved 50+ DSA problems (LeetCode and coursework)
-* Co-author – Book Chapter under faculty supervision 
+* **NPTEL** – Java & DBMS Certification
+* Co-author – Published Book Chapter under faculty supervision
 
+---
 
-📬 Let's Connect
+## Education
 
-**LinkedIn:** www.linkedin.com/in/netra-vijayakumar-736385316
-**Email:** netraveejay2006@gmail.com
-**GitHub:** github.com/Netraveejay
+**SRM Institute of Science and Technology**
+B.Tech in Computer Science Engineering
+CGPA: 8.9 | Graduating 2028
+
+**Indian Institute of Technology Madras**
+BS in Management and Data Science
+
+---
+
+## Let's Connect
+
+**LinkedIn:** [Netra Vijayakumar](https://www.linkedin.com/in/netra-vijayakumar-736385316)
+
+**Email:** [netraveejay2006@gmail.com](mailto:netraveejay2006@gmail.com)
+
